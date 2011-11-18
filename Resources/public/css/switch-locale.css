@@ -1,0 +1,21 @@
+/* 
+    Document   : switch-locale
+    Created on : 11 nov. 2011, 12:10:13
+    Author     : Francois Greze
+    Description:
+    Purpose of the stylesheet follows.
+*/
+div#switch_locale_flags_container {
+    position: relative;
+    left: -10px;
+    top:  3px;
+}
+div#switch_locale_flags_container ul {
+    float:left;
+    width: 10px;
+    padding: 0px 5px;
+       
+}
+div#switch_locale_flags_container a{
+}
+
