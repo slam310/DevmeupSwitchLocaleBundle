@@ -3,7 +3,6 @@
 namespace Devmeup\SwitchLocaleBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
-use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 
 class SwitchLocaleController extends Controller
